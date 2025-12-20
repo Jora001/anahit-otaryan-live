@@ -76,7 +76,7 @@ const AboutSection = () => {
              I am Anahit, a C/C++ software engineer focused on solving complex problems and building high-performance 
              systems. I enjoy delving into system architecture,
               applying advanced technologies, and continuously developing my technical skills.
-              I actively participate in industry events and community initiatives to gain knowledge and share experience.
+              I actively participate industry events and community initiatives to gain knowledge and share experience.
             </p>
             
             <p className="text-lg text-muted-foreground leading-relaxed mb-10">
