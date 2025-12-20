@@ -19,7 +19,7 @@ const Footer = () => {
               <span className="gradient-text">&lt;Portfolio /&gt;</span>
             </a>
             <p className="text-sm text-muted-foreground">
-               {currentYear} Portfolio Anahit Otaryan  C/C++ Engineer
+               {currentYear} Portfolio Anahit Otaryan C/C++ Engineer
             </p>
           </div>
 
