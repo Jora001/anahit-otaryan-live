@@ -16,32 +16,32 @@ const PhotoAlbumSection = () => {
   const photos = [
     {
       id: 1,
-      url: "/src/assets/labs.jpg",
+      url: "/assets/labs.jpg",
       caption: "42 Yerevan Internatioonal School",
     },
     {
       id: 2,
-      url: "/src/assets/geo.jpg",
+      url: "/assets/geo.jpg",
       caption: "Erasmus + Georgia Bakurani",
     },
     {
       id: 3,
-      url: "/src/assets/lasbs.jpg",
+      url: "/assets/lasbs.jpg",
       caption: "42 Yerevan Internatioonal School",
     },
     {
       id: 4,
-      url: "/src/assets/rrr.jpg",
+      url: "/assets/rrr.jpg",
       caption: "Erasmus + Georgia Bakurani",
     },
     {
       id: 5,
-      url: "/src/assets/qe.jpg",
+      url: "/assets/qe.jpg",
       caption: "42 Yerevan Internatioonal School",
     },
     {
       id: 6,
-      url: "/src/assets/maths.jpg",
+      url: "/assets/math.jpg",
       caption: "Russian Armenian University",
     },
   ];
