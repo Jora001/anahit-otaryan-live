@@ -40,7 +40,7 @@ const Footer = () => {
           </div>
 
           <p className="text-sm text-muted-foreground flex items-center gap-1">
-            © 2025 J.H. All rights reserved
+            © 2025. All rights reserved
           </p>
         </div>
       </div>
