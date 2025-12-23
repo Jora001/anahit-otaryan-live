@@ -61,7 +61,7 @@ const HeroSection = () => {
 
             <div className="flex flex-col sm:flex-row items-center justify-center lg:justify-start gap-4">
               <a
-                href="/public/Anahit OtaryanCV.pdf.pdf"
+                href="/Anahit OtaryanCV.pdf.pdf"
                 download
                 className="px-7 py-3 rounded-lg font-display font-semibold text-primary-foreground transition-all hover:scale-105 glow-effect"
                 style={{ background: "var(--gradient-primary)" }}
